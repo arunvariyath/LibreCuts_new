@@ -116,7 +116,7 @@
     <string name="toast_failed_to_apply_speed">Error al aolicar velocidad</string>
     <string name="toast_audio_extracted_to_new_layer">Audio extraído como capa</string>
     <string name="toast_failed_to_extract_audio">Error al extraer audio</string>
-    <string name="toast_failed_to_load_selected_video">Error al sekeccionar audios</string>
+    <string name="toast_failed_to_load_selected_video">No se pudo cargar el video seleccionado</string>
     <string name="toast_audio_track_added">Pista de audio añadida</string>
     <string name="toast_failed_to_parse_subtitle_file">Error en subtitulo. Es un SRT valido.</string>
     <string name="toast_failed_to_select_folder">Error al seleccionar carpeta</string>
